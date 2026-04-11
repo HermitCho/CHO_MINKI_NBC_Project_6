@@ -11,6 +11,10 @@
     <None Include="..\..\Source\NBC_Project_6Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +41,57 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\NBC_Project_6\NBC_Project_6.h">
       <Filter>Source\NBC_Project_6</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBC_Project_6\Private">
+      <UniqueIdentifier>{1DF7287C-59D1-3436-9FBD-A2A7FC8A11A2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\Item.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform1.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform1.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform2.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform2.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform3.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform3.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform4.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform4.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform5.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\MovingPlatform5.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\PlatformSpawner.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\PlatformSpawner.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\NBC_Project_6\Private\sq5ymmjj.qez~">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </None>
+    <Filter Include="Source\NBC_Project_6\Public">
+      <UniqueIdentifier>{F4829EE1-D664-3EBA-82E3-637B6303BDAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\Item.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
